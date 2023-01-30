@@ -26,6 +26,7 @@ const Questions = () => {
 
   const popRandomElement = () => {
     if (vocabularyArray.length === 1) {
+      alert("Done!")
       readyVocabularyArray()
     }
     var randomIndex = Math.floor(Math.random() * vocabularyArray.length);
