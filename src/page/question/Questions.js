@@ -58,7 +58,7 @@ const Questions = () => {
   return (
     <div id='questions'>
       {infoState == "start" && <div className='start' onClick={() => start()}>
-        <h1 className='title'>Vocabulary Book </h1>
+        <h1 className='title'>Vocabulary Book 2.0</h1>
         <div className='start_button'> Start </div>
         <h4 className='programmer'>Created By Enes HARMAN</h4>
       </div>}

@@ -12,8 +12,7 @@ Unwilling (adj) - Not eager to do something. - He was very unwilling to study be
 Indicate (v) - Point out, show. - Future progressive tense is a verb tense that indicates something will occur in the future and continue for an expected length of time.
 Occur (v) - Happened - The exam occurred at 10 a.m.
 Gap (n) - A space between two objects. - many astronomers were hunting for an additional planet they thought should exist in the gap between the orbits of Mars and Jupiter.
-Observer (n) - A person who watches or notices something. - By 1890, more than 300 of
-these minor planets or asteroids had been discovered by sharp-eyed observers.
+Observer (n) - A person who watches or notices something. - By 1890, more than 300 of these minor planets or asteroids had been discovered by sharp-eyed observers.
 Accelerate (v) - Being moved quickly - In that year, Max Wolf of Germany introduced astronomical photography to the search for asteroids, greatly accelerating the discovery of these dim objects.
 Distinguish (v) - Recognize as different -  And many of these foreign objects are located in the area of space which is commonly referred to as the asteroid belt, or the main belt, to distinguish this particular area in space from other asteroid populations like near-Earth asteroids and trojan asteroids.
 Alignment (v) - Arrangement in a straight line or correct relative positions. - the tiles had slipped out of alignment
@@ -51,7 +50,7 @@ Conventional (adj) - General, normal - The company decided to stick to conventio
 Back [x] up (pv) - Support or defend something. - When the class was making fun of me, only the teacher back me up.
 Break down (pv) - Stop working, especially when referring to a machine. The washing machine broke down again.
 Call around (pv) - Contact many people. - He called around to find someone. 
-Call [x] of (pv) .- Cancel something - We called the meeting of yesterday.
+Call [x] of (pv) - Cancel something - We called the meeting of yesterday.
 Check [x] of (pv) - Verify something or a person - Check his ID of.  
 Clean up (pv) - Be extremely successful in business or sports. - We have cleaned up the tournament. 
 Cheer [x] up (pv) - Make someone happy - Coding always cheers me up. 
@@ -118,6 +117,26 @@ Take [x] out (pv) - Move something outside - Take this garbage television out.
 Think [x] over (pv) - Consider something - When his parents suggested selling his Pokemon cards, Yosef thought it over. 
 Turn [x] down (pv) - Reject or say no - My crush turned me down after I asked them out. 
 Wait on (pv) - Serve especially at a restaurant - Billie eagerly waited on the new table of customers, hoping for a big tip.
-Use up (pv) - Finish - She wanted to use up all the ingredients in the fridge before they went bad, so she made a big pot of soup.`;
+Use up (pv) - She wanted to use up all the ingredients in the fridge before they went bad, so she made a big pot of soup.
+To account for (pv) - To be the explanation or cause for something - ı can’t account for the missing money, I don’t know where it went!
+To act out (pv)  - to express your feeling with actions instead of words, sometimes in a disruptive way - The child was acting out because his mom wouldn’t let him have candy.
+To act up (pv)  - to cause trouble - He always used to act up in class, but he grew up to be a doctor.
+To allow for (pv)  - to take into consideration - I didn’t allow for traffic this morning. I am probably going to be late to work.
+To answer for (pv)  - to be held responsible for something - You will have to answer for your actions one day.
+To apply for (pv)  - to make a formal request for something - My parents encouraged me to apply for every scholarship possible.
+To back down (pv)  - To withdraw your position, to step away from a fight - When she realized she was wrong, she backed down and apologized. 
+To back off (pv)  - move backwards or become less aggressive - They decided to back off their threats after someone called the cops. 
+To back out of (pv)  - Withdraw from something you’ve agreed to or to undo a change - She decided to back out of vacation plans when she realized how much it cost. 
+To back up (pv)  - To move backwards - Everyone back up, give me some space.
+To bank on (pv)  - To base your hopes on something or someone - He is banking on her saying to his proposal for marriage. 
+To block off (pv)  - To separate or close something - I need to block off a few hours on my schedule to check my emails.
+To blow up (pv)  - To explode or to get angry - Don’t blow up on me, I told you this would happen.
+To blow off (pv)  - To not show up for something or ignore someone - She didn’t even say hi to me, she just blew me off when I tried to talk to her.
+To blow over (pv)  - go to away, settle or calm down - I am waiting for the storm to blow over before I go on a hike.
+To be blown away (pv)  - to be shocked or greatly impressed - I am blown away by how much money we raised for charity!
+To break even (pv)  - To neither gain nor lose money - They thought they would make money on the sale, but they just broke even. 
+To bring up (pv)  - To mention - Don’t bring up her ex in conversation she’s still really upset about it.
+To call for (pv)  - To require or demand - The recipe calls for chicken, but I am using pork instead. 
+`;
 
 export default vocabularies;
