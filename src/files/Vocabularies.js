@@ -52,91 +52,58 @@ Break down (pv) - Stop working, especially when referring to a machine. The wash
 Call around (pv) - Contact many people. - He called around to find someone. 
 Call [x] of (pv) - Cancel something - We called the meeting of yesterday.
 Check [x] of (pv) - Verify something or a person - Check his ID of.  
-Clean up (pv) - Be extremely successful in business or sports. - We have cleaned up the tournament. 
 Cheer [x] up (pv) - Make someone happy - Coding always cheers me up. 
-Clean [x] up (pv) - Clean somewhere - We have to clean this room up before the wedding. 
 Come around (pv) -  Change opinion or see a new point of view. - I never liked Germany, but I came up when I see their economy. 
-Come down with (pv) - Become sick. - You will come down with a cold if you don’t wear appropriate clothes in this weather. 
 Come up (pv) - Approche or come near. - While I was talking with you,  a homeless person came up and requested some money.
-Come up with (pv) - Think an idea, especially as the first person - When I was young, I was the boy who comes up with new ideas.
 Count on (pv) - Trust or depend on someone - I am counting on you, my brother. 
 Dive into (pv) - Occupy oneself with something. - I’ll will dive into homework when I get home.
-Dress up (pv) - Wear nice clothes. - She is dressing right now for the ceremony. 
 End up (pv) - Eventually, reach some conclusion or destination - After 4 years of education, I finally ended up thinking what will I do. 
-Fall apart (pv) - Suffer from mental or emotional distress. - I have fallen apart without living you for two weeks. 
 Fill [x] up (pv) - Fill something completely - I need to fill the bottle up. Because we ran out of water.
 Find out (pv) - Discover or learn - I will find out who is behind this secret. 
-Get [x] across (pv) - Communicate or explain something clearly - Our team has spoken for 2 hours but he couldn’t get across anything. 
 Get ahead (pv) - Succeed or progress - You will never get ahead in this company. 
-Get away with (pv) - Escape punishment - He thought got away with it until cops caught him. 
-Get around (pv) - Travel from one place to another place. - It’s impossible to get around this city without a car. 
-Get along with (pv) - Be friendly with - My dogs get along with everyone except they’re not cats.
-Get at (pv) - Reach -  There’s an itch on my back that I can’t get at. 
 Get [x] back - Have something returned - Don’t worry. I will get your wallet back. 
-Get back at (pv) - Have revenge on someone - Laila promised herself that she would get back at whoever started the rumor. 
 Cottage (n) - A small house - I live in a cottage in summer.
-Get by (pv) - Survice or manage at bare minimum - Although she wasn’t making much money, she was able to gey by with help of her roommate. 
 Get [x] down (pv) - Depress or discourage someone - Kima always gets everyone down with her sad stories.
-Get down to (pv) - Begin or start - Once everyone arrives, we will get down to picking teams.
-Get in on (pv) - Join activity - She got in on the chess team last year.
 Get into (pv) - Discuss something thoroughly. - We will get into this topic when we get home.
-Get [x] out of (pv) - Receive a benefit from something - Babysitting the Cohles was a nightmare, but at least Janelle got some money out of it.
-Get over (pv) - Recover or overcome - Drinking a lot of water helps in getting over the illness.
-Get through (pv) - Complete or endure an uncompleted task - I can’t get through the morning without coffee. 
 Get together (pv) - Have a special event - The volleyball team is getting together for a dinner after training. 
 Give [x] away (pv) - Donate something or give something for free. - I gave my computer away.
 Give up (pv) - Accept defeat - I will never give up and get 7 points from IELTS.
 Give [x] up (pv) - Stop consuming or doing something - My girlfriend will give popeyes up for her diet. 
 Go against (pv) - Contradict, oppose, or fight against - A group of students went against the school dress code. 
-Go ahead (pv) - Succeed or move forward - Because of the snow, we can’t go ahead with the festival. 
-Go along with (pv) - Agree with - After a small talk, I went away with Jack’s idea.
 Go for (pv) - Try to attempt or to achieve something - I will go for a winning tournament. 
-Go on (pv) - Continue doing something - You ought to go on studying English. 
 Go over (pv) - Review or look at again - Marie went over the study guide last time before the exam.
-Hand in (pv) - Submit (especially assignment) - I will hand in my homework this night. 
 Hold [x] back (pv) - Prevent someone to do something - The hardness of IETLS will not hold me back from going to Germany.
 Keep [x] up (pv) - Continue doing something - I ought to keep working up if I want to make more money. 
 Leave [x] out (pv) - Omit or disregard something - Maria left the chart out from the presentation. 
 Let [x] down (pv) - Disappoint - You can trust me. I will never let you down.
-Let go of (pv) - Release of free - You ought to let go of thinking about money. 
 Let [x] in (pv) - Allow to enter - Don’t let him in. He has a knife!
 Let [x] know (pv) - Tell someone something - Let me know what’s going on here.
 Look after (pv) - Take care of someone or something - I will look after your brother, don’t worry.
 Look up to [x] (pv) - Admire or idolize someone - I look up to Atatürk to be a good person.
 Mix up (pv) - Confuse something with something else. - It’s easy to mix up Chris Pine and Chris Pratt.
 Pull [x] up (pv) - Retrieve or bring something near - Eugene pulled his document up his computer. 
-Put [x] on (pv) - Wear or add something to your person. - I always put my backpack on before I leave.
-Put up with (pv) - Tolerate - Somehow Paz could put up with Janice’s cynical attitude. 
 Run out of (pv) - Use all of the supply of something - We are running out of water.
-See to (pv) - Make sure something is done. - I’ll see to watering the plants while you’re gone.
 Set [x] up (pv) - Arrange or organize - I will set your desk up for you. 
-Show of (pv) - Deliberately display abilities in order to impress people. - Panya didn’t need to shoot so many three-pointers; she was just showing off. 
 Shut [x] off (pv) - Turn off - Shut the machine of.
 Take after (pv) - Resemble, especially with parents. - Li takes after his father when it comes to politics. 
 Take [x] out (pv) - Move something outside - Take this garbage television out.
 Think [x] over (pv) - Consider something - When his parents suggested selling his Pokemon cards, Yosef thought it over. 
 Turn [x] down (pv) - Reject or say no - My crush turned me down after I asked them out. 
-Wait on (pv) - Serve especially at a restaurant - Billie eagerly waited on the new table of customers, hoping for a big tip.
-Use up (pv) - She wanted to use up all the ingredients in the fridge before they went bad, so she made a big pot of soup.
 To account for (pv) - To be the explanation or cause for something - ı can’t account for the missing money, I don’t know where it went!
-To act out (pv)  - to express your feeling with actions instead of words, sometimes in a disruptive way - The child was acting out because his mom wouldn’t let him have candy.
-To act up (pv)  - to cause trouble - He always used to act up in class, but he grew up to be a doctor.
 To allow for (pv)  - to take into consideration - I didn’t allow for traffic this morning. I am probably going to be late to work.
-To answer for (pv)  - to be held responsible for something - You will have to answer for your actions one day.
-To apply for (pv)  - to make a formal request for something - My parents encouraged me to apply for every scholarship possible.
-To back down (pv)  - To withdraw your position, to step away from a fight - When she realized she was wrong, she backed down and apologized. 
 To back off (pv)  - move backwards or become less aggressive - They decided to back off their threats after someone called the cops. 
 To back out of (pv)  - Withdraw from something you’ve agreed to or to undo a change - She decided to back out of vacation plans when she realized how much it cost. 
 To back up (pv)  - To move backwards - Everyone back up, give me some space.
-To bank on (pv)  - To base your hopes on something or someone - He is banking on her saying to his proposal for marriage. 
 To block off (pv)  - To separate or close something - I need to block off a few hours on my schedule to check my emails.
-To blow up (pv)  - To explode or to get angry - Don’t blow up on me, I told you this would happen.
-To blow off (pv)  - To not show up for something or ignore someone - She didn’t even say hi to me, she just blew me off when I tried to talk to her.
 To blow over (pv)  - go to away, settle or calm down - I am waiting for the storm to blow over before I go on a hike.
-To be blown away (pv)  - to be shocked or greatly impressed - I am blown away by how much money we raised for charity!
 To break even (pv)  - To neither gain nor lose money - They thought they would make money on the sale, but they just broke even. 
 To bring up (pv)  - To mention - Don’t bring up her ex in conversation she’s still really upset about it.
-To call for (pv)  - To require or demand - The recipe calls for chicken, but I am using pork instead. 
+To call on (pv)  - To ask someone to do something - I know I can call on her when I need something.
+To check out (pv)  - To look or investigate - Did you check out the article I sent you? It was pretty interesting. 
+To fall for (pv)  - To be deceived by something - I can’t believe you fell for that scam. They’ll try to take your all money.
+To give way (pv)  - Collapse or break something under physical stress. - Be careful. I reckon the floor may give way!
+To hang on (pv)  - Waite a minute - Hang on! I’ll be right there. 
+To hold up (pv) - To delay or block process
 `;
 
 export default vocabularies;
