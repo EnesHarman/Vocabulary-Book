@@ -103,7 +103,27 @@ To check out (pv)  - To look or investigate - Did you check out the article I se
 To fall for (pv)  - To be deceived by something - I can’t believe you fell for that scam. They’ll try to take your all money.
 To give way (pv)  - Collapse or break something under physical stress. - Be careful. I reckon the floor may give way!
 To hang on (pv)  - Waite a minute - Hang on! I’ll be right there. 
-To hold up (pv) - To delay or block process
+To hold up (pv) - To delay or block the process 
+Interpret (verb) - Explain the meaning of information - To help interpret these signs, the Greeks relied on oracles, people who were believed to have the gift of prophecy and who served as intermediaries between the gods and humans.
+Rely (verb) - Depend on with full trust or confidence - The Greeks relied on oracles, people who were believed to have the gift of prophecy.
+Peer (verb) - To look carefully or with difficulty. - The ghost that roams the hallways and peers through the window. 
+Deduct (verb) - Subtract or take away (an amount or part) from a total. - Tax has been deducted from the payments 
+Homicide (noun) - The killing of one person by another. - He was charged with homicide.
+Convict (verb) - Declere someone to be guilty of a criminal offense - The thieves were convicted of the robbery
+Accountant (noun) - A person whose job is analyzing accounts. - Accountants are responsible for their client’s personal and professional information.
+Convey (verb) - Transport or carry to place, sometimes an idea - Develop and convey your idea.
+Persuade (verb) - Induce someone to do something through reasoning or argument. - It wasn’t easy, but I persuaded him to do the right thing.
+Persuasive (adj) - Good at persuading someone to believe or do something through reasoning or argument. - Persuasive Essay
+Coherent (adj) - Of an argument, being logical and consistent. - They’ve failed to develop a coherent economic strategy. 
+Tight-knit (adj) - A group of people bound together with strong relationships and common interests. - Small towns are often characterized by a tight-knit community where everyone knows each other and there is a strong sense of belonging.
+Tend (v) - Regularly or frequently behave in a particular way or have a certain characteristic. - People in small towns tend to lead a more relaxed and slower-paced life.
+Undergo (v) - Experience something, which is unpleasant - They have to undergo bad situations as they believe that good things might come out of it.
+Hence (adv) - As a consequence - Hence, this explains why some people choose to accept bad situations. 
+Paranoid (adj) - Unreasonably, or obsessively suspicious. - They feel a bit paranoid that the situation will become worse if they do not do so.
+Throughout (prep) - In every part of something (like text) - Shows a clear position throughout the response.
+Entertainment (noun) - The action providing amusement or enjoyment. - Big cities offer a wider range of entertainment. 
+Diverse (adj) - Showing a great deal of variety. - Big cities are more diverse. 
+Merit (noun) - The quality of being particularly good or worthy.  - Both ideas have their merits.
 `;
 
 export default vocabularies;
