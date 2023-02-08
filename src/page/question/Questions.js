@@ -63,6 +63,7 @@ const Questions = () => {
         <h4 className='programmer'>Created By Enes HARMAN</h4>
       </div>}
       {infoState != "start" && <div className='question'>
+        <div className='vocabulary_counter'>{vocabularyArray.length}</div>
         <div className='question_text'>{currentElement.name}</div>
         <div className='info-area'>
 
