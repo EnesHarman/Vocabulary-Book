@@ -14,18 +14,23 @@ const Questions = () => {
   }, [])
 
   const readyVocabularyArray = () => {
-    const lines = vocabularies.split("\n");
-
-    const mappedArray = lines.map(element => {
+    let mappedArray;
+    if(localStorage.getItem("vocabularies") != null){
+      mappedArray =  JSON.parse(localStorage.getItem("vocabularies"));
+    }
+    else{
+      const lines = vocabularies.split("\n");
+      mappedArray = lines.map(element => {
       const [name, description, sampleSentence] = element.split(" - ");
       return { name, description, sampleSentence }
     });
+    }
     setVocabularyArray(mappedArray)
-
   }
 
   const popRandomElement = () => {
     if (vocabularyArray.length === 1) {
+      localStorage.removeItem("vocabularies");
       alert("Done!")
       readyVocabularyArray()
     }
@@ -33,6 +38,8 @@ const Questions = () => {
     var element = vocabularyArray[randomIndex];
     vocabularyArray.splice(randomIndex, 1);
     setCurrentElement(element);
+    setInfoState("sentence")
+    localStorage.setItem("vocabularies", JSON.stringify(vocabularyArray))
   }
 
   const start = () => {
@@ -58,7 +65,7 @@ const Questions = () => {
   return (
     <div id='questions'>
       {infoState == "start" && <div className='start' onClick={() => start()}>
-        <h1 className='title'>Vocabulary Book 2.0</h1>
+        <h1 className='title'>Vocabulary Book 3.0</h1>
         <div className='start_button'> Start </div>
         <h4 className='programmer'>Created By Enes HARMAN</h4>
       </div>}
