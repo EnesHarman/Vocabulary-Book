@@ -73,6 +73,30 @@ Resemble (verb) - Have a similar appearance - The first matches resembling those
 Notorious (adj) - Famous or well-known, typically for some bad quality. 
 Encourage (verb) - Give support or confidence. - Parents should encourage their children to participate
 Intact (adj) - Not damaged or impaired in any way. - In general, your aim is to leave the site intact.  
+Obscure (adj) - Not discovered or known about - However, the origins word of Viking, itself, are obscure. 
+Exaggerated (adj) - Represented as larger, better - Viking conquests are exaggerated to bolster the country’s ego after a territories loss.
+Bolster (verb) - Support or strengthen - Viking conquests are exaggerated to bolster the country’s ego after a territories loss.
+Perceive (verb) - Become aware or conscious of something - Vikings have been perceived in numerous different ways.
+Vilify (verb) - Speak or write about in an abusively disparaging manner. -  Vilified as conquerors and romanticised as adventurers.
+Subsequently (adverb) - After a  particular things has happened. - Vikings sailed to England to storm coastal monasteries, and subsequently, large swathes of England fell under Viking rule.
+Dispute (noun) - A disagreement on an argument - How much territory Vikings controlled is also in dispute. 
+Initially (adv) - At first - Initially, Vikings were polytheists, believing in many gods. 
+Forebear (noun) - An ancestor -  He was adamant it was his forebears and not the Swedes’ or Danes’ who had colonised Iceland, Greenland, and Vinland, in what is now Canada.
+Eruption (noun) - An act or instance of erupting - An eruption by Yellowstone is likely to be more destructive than previous volcanic eruptions.
+Uninhabitable (adj) - A place that is not suitable for living. - If the world becomes uninhabitable, it’s more likely to be as a result of a natural disaster. 
+Furthermore (adv) - In addition, besides. - Furthermore, our descendants could continue to enjoy the company of other species. 
+Convenient (adj) - Fitting in well with a person's needs, activities, and plans. -  Leaving only the ones that we find convenient
+Magnitude (noun) - Great size. - Yellowstone National Park in the USA occupies the caldera of an exceedingly ancient volcano of extraordinary magnitude
+Predispose (verb) - Make someone liable - Certain kinds of political systems and strategies would predispose us to long-term survival. 
+Conceal (verb) - Hide - Recipes to conceal facial defects caused by aging. 
+Abundance (noun) - A very large of quantity of something - Evidence exists in abundance showing cosmetics use in ancient times. 
+Solely (adv) - Only - Long hair as a symbol of beauty was worn solely by women of ancient culture.  
+Establish (verb) - Set up on a permanent basis. - The Egyptian Queen Hatsheput sent a royal expedition to Punt to establish a trade route for myrrh.
+Attitude (verb) - A settled way of thinking or feeling something - Its interesting to compare attitudes. 
+Coveted (adj) - Greatly desired or envied - Perfumes were prestigious products known throughout the ancient world and coveted by kings and princes.
+Appease (verb) - Pacify or placate someone (gods) - Cosmetics were also connected with cultic worship and witchcraft: to appease the various gods. 
+Anoint (verb) - Rub with oil, typically as part of a religious ceremony. - They used to care for the body with substances that softened the skin and anoint it with fragrant oils and ointments.
+Inflammation (noun) - A localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful. - The eye-paint repelled the little flies that transmitted eye inflammations.
 `;
 
 export default vocabularies;
