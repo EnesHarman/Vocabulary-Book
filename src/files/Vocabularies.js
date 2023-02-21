@@ -66,6 +66,15 @@ Towards (prep) - In direction of - This fantasy is helping her take her first st
 Underpin (verb) - To support or strengthen something, often something abstract - It underpins how we develop as problem solving adults. 
 Extol (verb) - Praise , Övmek - Plato extolled its virtues as a means of developing skills for adult life. 
 Scarce (adj) - Nadir - The opportunities for free play are becoming increasingly scarce. 
+Curtail (verb) - Kısıtlamak - Outdoor play is curtailed by perceptions of risk to do with traffic, as well as parent’ increased wish to protect their children.
+Concerned (adj) - Worried - International bodies like United Nations and the European Union have begun yo develop policies concerned with children’s right to play. 
+Drawback (noun) - Eksi yön, sakınca, engel - One possible drawback of using the internet for education is leading to copying homework.
+Enhance (verb) - Geliştirmek - Using the internet for education has a big advantage which lets students to enhance their studies.
+Taking precautions (verb) - Önlem almak - To ensure our safety, we took precautions by wearing helmets and safety gear while riding our bikes.
+Remedy (noun) - Çare - There is no easy remedy for the environmental damage caused by industrial pollution.
+Fact (noun) - Durum, gerçek, olgu - The fact is, we can't afford to buy a new car right now.
+Narrow (noun) - Daralmak - We need to narrow our focus and concentrate on the most important issues.
+Income (noun) - Gelir - he was pleased to receive a raise in her income after working at the company for a year.
 `;
 
 export default vocabularies;
