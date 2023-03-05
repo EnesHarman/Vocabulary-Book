@@ -1,93 +1,90 @@
-const vocabularies = `Fluctuation (n) - Something not stable - The fluctuation of food price in Turkey struggle citizens.
-Indicate (v) - Point out, show. - Future progressive tense is a verb tense that indicates something will occur in the future and continue for an expected length of time.
-Influence (n) - Effect on something - Parents have an influence on their children about sports.
-Adverse (adj) - Ters, zıt - Adverts effects of parental involvement in sports
-Participation (n) - The action of taking part in something - Parents have a significant role in a young child’s level of enjoyment and participation.
-Significant (adj) -  Important to be worthy of attention - A significant increase in sales
-Demanding (adj) - (of a task) requiring much skill or effort - Anne’s boos is very demanding.
-Relatively (adv) - Nispeten - She placed the vase on the shelf with relatively little effort.
-Ordinary (adj) - With no special feature - Despite his ordinary appearance, he was a successful businessman.
-Customary (adj) - According to custom - These days, customary jobs aren't interested by younger people. 
-Phenomenal (adj) - Remarkable - He has a phenomenal appearance.
-Conventional (adj) - General, normal - The company decided to stick to conventional marketing strategies instead of experimenting with new ones. 
-Deduct (verb) - Subtract or take away (an amount or part) from a total. - Tax has been deducted from the payments
-Accountant (noun) - A person whose job is analyzing accounts. - Accountants are responsible for their client’s personal and professional information.
-Persuade (verb) - Induce someone to do something through reasoning or argument. - It wasn’t easy, but I persuaded him to do the right thing.
-Persuasive (adj) - Good at persuading someone to believe or do something through reasoning or argument. - Persuasive Essay
-Perceive (verb) - Become aware or conscious of something - Vikings have been perceived in numerous different ways.
-Coherent (adj) - Of an argument, being logical and consistent. - They’ve failed to develop a coherent economic strategy. 
-Tight-knit (adj) - A group of people bound together with strong relationships and common interests. - Small towns are often characterized by a tight-knit community where everyone knows each other and there is a strong sense of belonging.
-Tend (verb) - Regularly or frequently behave in a particular way or have a certain characteristic. - People in small towns tend to lead a more relaxed and slower-paced life.
-Undergo (verb) - Experience something, which is unpleasant - They have to undergo bad situations as they believe that good things might come out of it.
-Hence (adv) - As a consequence - Hence, this explains why some people choose to accept bad situations. 
-Throughout (prep) - In every part of something (like text) - Shows a clear position throughout the response.
-Entertainment (noun) - The action providing amusement or enjoyment. - Big cities offer a wider range of entertainment. 
-Diverse (adj) - Showing a great deal of variety. - Big cities are more diverse. 
-Merit (noun) - The quality of being particularly good or worthy.  - Both ideas have their merits.
-Influence (verb) - Affect something. - I don't believe I can influence the situation
-Resemble (verb) - Have a similar appearance - The first matches resembling those used today were made in 1827.
-Notorious (adj) - Famous or well-known, typically for some bad quality. 
-Intact (adj) - Not damaged or impaired in any way. - In general, your aim is to leave the site intact.  
-Obscure (adj) - Not discovered or known about - However, the origins word of Viking, itself, are obscure. 
-Exaggerated (adj) - Represented as larger, better - Viking conquests are exaggerated to bolster the country’s ego after a territories loss.
-Bolster (verb) - Support or strengthen - Viking conquests are exaggerated to bolster the country’s ego after a territories loss.
-Vilify (verb) - Speak or write about in an abusively disparaging manner. -  Vilified as conquerors and romanticised as adventurers.
-Subsequently (adverb) - After a  particular things has happened. - Vikings sailed to England to storm coastal monasteries, and subsequently, large swathes of England fell under Viking rule.
-Dispute (noun) - A disagreement on an argument - How much territory Vikings controlled is also in dispute. 
-Despite (prep) - Aksine - Despite this recognition of the importance of employee development, the hospitality industry has historically been dominated by underdeveloped HR practices
-Initially (adv) - At first - Initially, Vikings were polytheists, believing in many gods. 
-Forebear (noun) - An ancestor -  He was adamant it was his forebears and not the Swedes’ or Danes’ who had colonised Iceland, Greenland, and Vinland, in what is now Canada.
-Eruption (noun) - An act or instance of erupting - An eruption by Yellowstone is likely to be more destructive than previous volcanic eruptions.
-Uninhabitable (adj) - A place that is not suitable for living. - If the world becomes uninhabitable, it’s more likely to be as a result of a natural disaster. 
-Furthermore (adv) - In addition, besides. - Furthermore, our descendants could continue to enjoy the company of other species. 
-Convenient (adj) - Fitting in well with a person's needs, activities, and plans. -  Leaving only the ones that we find convenient
-Magnitude (noun) - Great size. - Yellowstone National Park in the USA occupies the caldera of an exceedingly ancient volcano of extraordinary magnitude
-Predispose (verb) - Make someone liable (yatkın) - Certain kinds of political systems and strategies would predispose us to long-term survival. 
-Conceal (verb) - Hide - Recipes to conceal facial defects caused by aging. 
-Abundance (noun) - A very large of quantity of something - Evidence exists in abundance showing cosmetics use in ancient times. 
-Solely (adv) - Only - Long hair as a symbol of beauty was worn solely by women of ancient culture.  
-Establish (verb) - Set up on a permanent basis. - The Egyptian Queen Hatsheput sent a royal expedition to Punt to establish a trade route for myrrh.
-Attitude (noun) - A settled way of thinking or feeling something - Its interesting to compare attitudes. 
-Coveted (adj) - Greatly desired or envied - Perfumes were prestigious products known throughout the ancient world and coveted by kings and princes.
-Appease (verb) - Pacify or placate someone (gods) - Cosmetics were also connected with cultic worship and witchcraft: to appease the various gods. 
-Inflammation (noun) - A localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful. - The eye-paint repelled the little flies that transmitted eye inflammations.
-Debate (verb) - To discuss or argue a topic or issue - The students debated about social media
-Prioritize (verb) - Decide which thing is more important to be done first- Young people should prioritize their education and health. 
-Towards (prep) - In direction of - This fantasy is helping her take her first steps towards her capacity for creativity.
-Underpin (verb) - To support or strengthen something, often something abstract - It underpins how we develop as problem solving adults. 
-Extol (verb) - Praise , Övmek - Plato extolled its virtues as a means of developing skills for adult life. 
-Scarce (adj) - Rare - The opportunities for free play are becoming increasingly scarce. 
-Curtail (verb) - Reduce or limit something - Outdoor play is curtailed by perceptions of risk to do with traffic, as well as parent’ increased wish to protect their children.
-Concerned (adj) - Worried - International bodies like United Nations and the European Union have begun yo develop policies concerned with children’s right to play. 
-Drawback (noun) - Disadvantage or negative aspect of something - One possible drawback of using the internet for education is leading to copying homework.
-Enhance (verb) - Improve or increase the quality - Using the internet for education has a big advantage which lets students to enhance their studies.
-Taking precautions (verb) - Prevent potential harm or danger - To ensure our safety, we took precautions by wearing helmets and safety gear while riding our bikes.
-Remedy (noun) - Solution for a problem - There is no easy remedy for the environmental damage caused by industrial pollution.
-Fact (noun) - Piece of information that is true or can be proven  - The fact is, we can't afford to buy a new car right now.
-Narrow (verb, adj) - Making small - We need to narrow our focus and concentrate on the most important issues.
-Income (noun) - Money that person receives - he was pleased to receive a raise in her income after working at the company for a year.
-Growing concern (noun) - Situation when people are becoming worried or alarmed  - The widening gap between rich and poor is a growing concern in many countries around the world. 
-As a whole (noun) - Considering all parts of the aspect - This trend can have serious implications for the well-being of individuals and society as a whole.
-Well-being (noun) - Being comfortable, healthy, and happy - This trend can have serious implications for the well-being of individuals and society as a whole.
-Fund (noun) - Sum of money that is set aside for a specific purpose - The revenue generated from these taxes could then be used to fund programs and services for those in need.
-Wealth (noun) - Abundance of valuable resources / Zenginlik - When a small percentage of the population controls the majority of the wealth, it can create a sense of injustice and resentment among those who are less fortunate.
-Particularly (adv) - Specifically  -  Particularly when it came to publicizing Provo’s aims.
-Initiative (noun) - Ability to take action and make decisions independently / Girişim - The police were opposed to Provo’s initiatives and almost as soon as the white bikes were distributed around the city, they removed them.
-Seize (verb) - Take the advantage of an opportunity - Schimmelpennink seized this opportunity to present a more elaborate Witte Fietsenplan to the city council.
-Unanimously (adv) -Complete agreement or approval by all members - Nevertheless, the council unanimously rejected the plan.
-Arouse (verb) - Awaken a feeling or reaction in someone - He succeeded in arousing the interest of the Dutch Ministry of Transport.
-Decisive (adj) - Something that settles or determines an outcome - That was a decisive moment in the history of bike-sharing
-Ingredient (noun) - Component or part of a mixture - A critical ingredient in success of hotels is developing and maintaining superior performance from their employees. 
-Accomplished (adj) - Successful on achieving something - How is that accomplished? / Bu nasıl başarılır?
-Invest (verb) - Put money or resources into a project - What Human Resource Management (HRM) practices should organizations invest in to acquire and retain great employees?
-Retain (verb) - Keep possession or control something -  The company was able to retain its top employees by offering competitive salaries and benefits.
-Aim (noun) - Specific intention or purpose that someone has in mind - Some hotels aim to provide superior working conditions for their employees.
-By contrast, (other) - Highlight a difference or distinction between two things - By contrast, the service sector, and more specifically hotels, has traditionally not extended these practices to address basic employee needs, such as good working conditions.
-In order to succeed (other) - To be successful - Pfeffer emphasizes that in order to succeed in a global business environment, organizations must make investment in Human Resource Management.
-Substance (noun) - Essential part of something - The substance of HRM practices 
-Recurring (adj) - Something happens repeatedly - In addition, or maybe as a result, high employee turnover has been a recurring problem throughout the hospitality industry
-Succinctly (adv) - Express something in a clear and concise way - This was succinctly summarized by Michel
-Inherently (adv) - Naturally ? - These conditions are inherently linked to the working environment.
-It is therefore (other) - Logical conclusion / Bu nedenle - It is therefore essential for hotel management to develop HRM practices that enable them to inspire and retain competent employees. `;
+const vocabularies = `Fluctuation (Noun) - an irregular rising and falling in number or amount - The stock market experienced fluctuations throughout the day.
+Indicate (Verb) - to point out or show - The sign indicated the direction to the nearest gas station.
+Influence (Noun) - the capacity to have an effect on the character, development, or behavior of someone or something - His parents had a significant influence on his career choice.
+Adverse (Adjective) - preventing success or development; harmful; unfavorable - The adverse weather conditions made it difficult to travel.
+Participation (Noun) - the act of taking part or sharing in something - The students' participation in the school play was highly appreciated.
+Significant (Adjective) - important; meaningful - The discovery of a new planet was a significant achievement for astronomers.
+Demanding (Adjective) - requiring much time, effort, or attention - His job was very demanding, and he often worked long hours.
+Relatively (Adverb) - in comparison to something else - The new job paid relatively well compared to his previous one.
+Ordinary (Adjective) - with no special or distinctive features; normal - The day was just an ordinary one, with nothing unusual happening.
+Customary (Adjective) - according to the customs or usual practices associated with a particular society, place, or set of circumstances - It is customary to bow when greeting someone in Japan.
+Phenomenal (Adjective) - very remarkable; extraordinary - The singer's performance was phenomenal and received a standing ovation.
+Conventional (Adjective) - based on or in accordance with what is generally done or believed - The bride wore a conventional white wedding gown.
+Deduct (Verb) - to subtract or take away (an amount or part) from a total - The restaurant will deduct the cost of the meal from the bill if there is a mistake.
+Accountant (Noun) - a person who keeps or inspects financial accounts - The accountant was responsible for preparing the company's tax returns.
+Persuade (Verb) - to cause someone to believe or do something through reasoning or argument - The salesman tried to persuade the customer to buy the new product.
+Persuasive (Adjective) - having the ability to persuade or convince - The lawyer's persuasive argument helped her win the case.
+Perceive (Verb) - to become aware of or understand through the senses - The artist perceived the beauty in the landscape and captured it in his painting.
+Coherent (Adjective) - logically connected and consistent - Her argument was coherent and made sense.
+Tight-knit (Adjective) - closely united or connected - The members of the small town were a tight-knit community and supported each other.
+Tend (Verb) - to be likely or disposed to do something - She tends to be shy around new people.
+Undergo (Verb) - to experience or endure something, especially a difficult or unpleasant process or event - The patient had to undergo surgery to remove the tumor.
+Hence (Adverb) - as a consequence; for this reason - The weather was bad; hence, we decided to cancel the outdoor event.
+Entertainment (Noun) - the action of providing or being provided with amusement or enjoyment - The theater provided entertainment for the entire family.
+Merit (Noun) - the quality of being particularly good or worthy - The writer's work was of great merit.
+Influence (Noun) - the capacity to have an effect on someone or something - My parents have had a huge influence on my life.
+Resemble (Verb) - to have a similar appearance or character to someone or something - The new building resembles the old one.
+Notorious (Adjective) - famous or well-known, typically for some bad quality or deed - The criminal was notorious for his violent behavior.
+Intact (Adjective) - not damaged or impaired in any way; complete - The house remained intact after the hurricane.
+Obscure (Adjective) - not discovered or known about; uncertain - The origins of the ancient language are obscure.
+Exaggerated (Adjective) - made to seem larger, better, worse, or more important than it really is or needs to be - The politician's speech contained a lot of exaggerated claims.
+Bolster (Verb) - to support or strengthen - The company decided to bolster its marketing strategy.
+Vilify (Verb) - to speak or write about someone in an abusively disparaging manner - The newspaper article vilified the politician.
+Subsequently (Adverb) - after a particular thing has happened; afterward - She failed her exam and subsequently decided to drop out of school.
+Dispute (Noun) - a disagreement, argument, or debate - There was a dispute between the two neighbors over the property line.
+Despite (Preposition) - without being affected by; in spite of - Despite the rain, we went on our hike.
+Initially (Adverb) - at the beginning; first - Initially, she was hesitant to take the job.
+Forebear (Noun) - a person from whom one is descended; an ancestor - My forebears came from Ireland.
+Eruption (Noun) - a sudden violent outburst, especially of a volcano - The volcanic eruption destroyed the entire town.
+Uninhabitable (Adjective) - not suitable to live in - The apartment was uninhabitable due to the mold.
+Furthermore (Adverb) - in addition; besides - The company has seen increased profits this year, and furthermore, they have expanded their product line.
+Convenient (Adjective) - fitting in well with a person's needs, activities, and plans - The store's location is very convenient for me.
+Magnitude (Noun) - the great size or extent of something - The magnitude of the earthquake was 7.5 on the Richter scale.
+Predispose (Verb) - to make someone more likely to behave or experience something in a particular way - Her family history predisposed her to diabetes.
+Conceal (Verb) - to keep something secret or hidden - She tried to conceal her nervousness during the job interview.
+Abundance (Noun) - a very large quantity of something - The orchard was full of an abundance of fruit.
+Solely (Adverb) - only and exclusively; not involving anything else - He was solely responsible for the project's success.
+Establish (Verb) - to set up or create - The company plans to establish a new branch in Europe.
+Attitude (Noun) - a settled way of thinking or feeling about someone or something - She has a positive attitude towards her job.
+Coveted (Adjective) - greatly desired or envied - The coveted award was finally won by the talented musician.
+Appease (Verb) - to calm or pacify someone by giving them what they want - The manager tried to appease the angry customer with a refund.
+Inflammation (Noun) - a localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful
+Debate (Noun/Verb) - a discussion or argument on a particular topic or issue / to engage in a discussion or argument - The debate on climate change continues among scientists.
+Prioritize (Verb) - to arrange or deal with something in order of priority - It's important to prioritize your tasks to ensure you complete the most important ones first.
+Towards (Preposition) - in the direction of; with regard to - I am walking towards the park.
+Underpin (Verb) - to support, justify, or form the basis for something - Scientific research underpins modern medicine.
+Extol (Verb) - to praise enthusiastically - The coach extolled the team's efforts after the game.
+Scarce (Adjective) - insufficient or limited in quantity or availability - The drought has made water scarce in this region.
+Curtail (Verb) - to reduce in extent or quantity; to impose a restriction on - The company curtailed its expenses to survive the economic downturn.
+Concerned (Adjective) - worried or anxious - I am concerned about my friend's health.
+Drawback (Noun) - a disadvantage or problem - The main drawback of the new system is its complexity.
+Enhance (Verb) - to improve or increase in value, quality, or attractiveness - Adding new features can enhance the user experience.
+Taking precautions (Phrase) - the act of taking steps to prevent something bad from happening - Taking precautions is important to prevent the spread of diseases.
+Remedy (Noun/Verb) - a medicine or treatment for a disease or injury / to provide a remedy or solution - The remedy for a headache is aspirin.
+Fact (Noun) - a thing that is known or proved to be true - It is a fact that the Earth orbits around the Sun.
+Narrow (Adjective/Verb) - limited in extent, range, or scope / to reduce in width or extent - The narrow road was difficult to navigate.
+Income (Noun) - money received, especially on a regular basis, for work or through investments - The family's income has increased over the years.
+Growing concern (Phrase) - a matter of increasing worry or anxiety - Climate change is a growing concern for many people.
+As a whole (Phrase) - considered in its entirety; altogether - The company's profits, as a whole, increased by 20% this year.
+Well-being (Noun) - the state of being comfortable, healthy, or happy - Exercise and healthy eating are important for maintaining well-being.
+Fund (Noun/Verb) - a sum of money saved or made available for a particular purpose / to provide money for - The fund was created to support cancer research.
+Wealth (Noun) - a large amount of money or valuable possessions - The billionaire's wealth is staggering.
+Particularly (Adverb) - especially; to a greater extent than is normal or expected - I am particularly fond of chocolate ice cream.
+Initiative (Noun) - a new plan or process to achieve something or solve a problem - The government launched an initiative to promote renewable energy.
+Seize (Verb) - to take hold of something suddenly and forcibly - The police seized the drugs during the raid.
+Unanimously (Adverb) - without opposition; with everyone in agreement - The decision was approved unanimously by the board.
+Arouse (Verb) - to awaken or stir up a feeling or emotion in someone - The music aroused feelings of nostalgia in the audience.
+Ingredient (Noun) - one of the substances that are combined to make a particular food, drink, or product - Salt is a common ingredient in many recipes.
+Accomplished (Adjective) - skilled or talented in a particular activity or field - The accomplished pianist gave a flawless performance.
+Invest (Verb) - To allocate money, time, or resources to achieve a profit or an objective - He decided to invest his savings in the stock market.
+Retain (Verb) - To keep possession or use of something - She wanted to retain her position as the head of the department.
+Aim (Noun) - A specific goal or purpose that one wants to achieve - Her aim is to become a successful entrepreneur.
+By contrast (Phrase) - Used to compare or highlight differences between two things or situations - The first restaurant was very expensive; by contrast, the second one was very affordable.
+In order to succeed (Phrase) - Indicates the reason or purpose for doing something - He had to work hard in order to succeed in his career.
+Substance (Noun) - A particular type of matter with uniform properties - The doctor prescribed a new medication to treat the substance abuse.
+Recurring (Adjective) - Occurring repeatedly or at regular intervals - The recurring problem with the software frustrated the customers.
+Succinctly (Adverb) - In a brief and clearly expressed manner - She explained the new policy succinctly to the team.
+Inherently (Adverb) - In a way that is an essential part of the nature of something - The design of the product was inherently flawed.
+It is therefore (Phrase) - Indicates a conclusion or result based on what has been said previously - He studied hard and got good grades. It is therefore clear that his hard work paid off.`;
 
 export default vocabularies;
